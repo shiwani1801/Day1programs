@@ -1,6 +1,6 @@
 package com.bridgelabz;
 
-public class TwoStringsEqual {
+public class TwoStringsAreEqual {
     public static void main(String[] args) {
         String a = "shiwani";
         String b = "shivani";
